@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm currently learning at La Manu at Amiens
+- You can contact me by e-mail at : matheo.simon46@gmail.com
+- I speek French and English
+
 <!--
 **DeraiZ/DeraiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
